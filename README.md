@@ -6,4 +6,3 @@
 - Food Order Cart
 - Food Slide
 - Eye Catchy Design
-# Native-food-delivery-app-expo-master
